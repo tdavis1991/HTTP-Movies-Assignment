@@ -75,3 +75,9 @@ body {
   color: red;
   text-align: center;
 }
+
+.edit-button {
+  padding: 5px 10px;
+  background-color: lightskyblue;
+  cursor: pointer;
+}
